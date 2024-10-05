@@ -25,7 +25,7 @@ import (
 */
 
 // Read up on go concurrency
-// The shit is semi working just need to make it for multiple clients
+// This is semi working just need to make it for multiple clients
 // Maybe add a queue then a main thread to add data to the global variables
 
 type Command struct {
