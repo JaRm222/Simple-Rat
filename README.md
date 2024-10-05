@@ -4,7 +4,7 @@ This is a very simple rat. I made this to learn rust and go as well as some simp
 
 The source is pretty terrible it hasn't been cleaned up. I'm uploading this to github because I'm sure at some point this source will come in useful.
 
-ONLY USE THIS TO LEARN CONCEPTS. THIS IS NOT COMPLETE.
+ONLY USE THIS TO LEARN CONCEPTS. THIS IS NOT COMPLETE. I'm sure this would be easy to create sigs for.
 
 
 Some of this code was made following [FluxSec's](https://www.youtube.com/@FluxSec) YouTube videos. 
